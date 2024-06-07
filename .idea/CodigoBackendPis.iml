@@ -19,7 +19,11 @@
 <<<<<<< Updated upstream
     <orderEntry type="jdk" jdkName="Python 3.12 (HolaMundo)" jdkType="Python SDK" />
 =======
+<<<<<<< Updated upstream
     <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
+=======
+    <orderEntry type="inheritedJdk" />
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
