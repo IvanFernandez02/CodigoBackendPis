@@ -146,7 +146,7 @@ V = Vmax⋅ln(d max/d + 1)
 
 Diagrama UML
 
-![image](https://github.com/user-attachments/assets/e99475b2-c0a7-4a93-a911-4a8baef78afe)
+![image](https://github.com/user-attachments/assets/e25025f2-2714-46aa-b386-7e11f62cca39)
 
 
 PAGINA
